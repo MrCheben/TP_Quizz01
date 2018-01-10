@@ -1,0 +1,46 @@
+<resources>
+    <!-- Erreurs -->
+    <string name="erreurNomMess">Vous n\'avez pas saisi votre nom !</string>
+    <string name="infoMess">Information</string>
+    <string name="erreurSelect">Veuillez sélectionner une réponse.</string>
+
+
+    <!-- Accueil -->
+    <string name="app_name">Questionnaire</string>
+    <string name="libQuestion">Qui êtes-vous ?</string>
+    <string name="libNom">Nom :</string>
+    <string name="libOK">COMMENCER</string>
+
+    <!-- Question 1 -->
+    <string name="libQuestion1">La capitale du Japon est Kyoto.</string>
+    <string name="libVrai">Vrai</string>
+    <string name="libFaux">Faux</string>
+    <string name="libVerif">Vérifier</string>
+    <string name="libSuivant">Suivant</string>
+    <string name="debutTQ">Bonne réponse</string>
+    <string name="finQ1">La capitale est Tokyo.</string>
+    <string name="debutFQ">Mauvaise réponse</string>
+
+    <!-- Question 2 -->
+    <string name="libQuestion2">Quelle est la capitale de l\'Argentine ?</string>
+    <string name="finQ2">Bueno Aires est la capitale de l\'Argentine</string>
+
+    <!-- Question 3 -->
+    <string name="libQuestion3">Sur quel continent se trouve le Belize ?</string>
+    <string name="finQ3">Le Bélize se trouve en Amérique</string>
+    <string name="Afr">Afrique</string>
+    <string name="Amer">Amérique</string>
+    <string name="Asie">Asie</string>
+    <string name="Eur">Europe</string>
+    <string name="Oce">Océanie</string>
+
+    <!-- Question 4 -->
+    <string name="libQuestion4">Quelles couleurs sont présentes sur le drapeau de la Jamaïque ?</string>
+    <string name="finQ4">La réponse est : Jaune, Noir et Vert.</string>
+
+    <!-- Résultats -->
+    <string name="quizzTermine">, vous avez terminé le quizz !</string>
+    <string name="debutScore">Score : </string>
+    <string name="finScore">bonne(s) réponse(s)</string>
+    <string name="libVoirReponses">Voir vos réponses</string>
+</resources>

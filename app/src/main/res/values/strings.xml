@@ -1,0 +1,46 @@
+<resources>
+    <!-- Erreurs -->
+    <string name="erreurNomMess">You didn\'t write your name!</string>
+    <string name="infoMess">Information</string>
+    <string name="erreurSelect">Please select an answer.</string>
+
+    <!-- Accueil -->
+    <string name="app_name">Quizz</string>
+    <string name="libQuestion">Who are you ?</string>
+    <string name="libNom">Name :</string>
+    <string name="libOK">BEGIN</string>
+
+
+    <!-- Question 1 -->
+    <string name="libQuestion1">Kyoto is the Japan\'s capital.</string>
+    <string name="libVrai">True</string>
+    <string name="libFaux">False</string>
+    <string name="libVerif">Check</string>
+    <string name="libSuivant">Next</string>
+    <string name="debutTQ">Good answer</string>
+    <string name="finQ1">The capital is Tokyo.</string>
+    <string name="debutFQ">Wrong answer</string>
+
+    <!-- Question 2 -->
+    <string name="libQuestion2">What is the Argentina\'s capital ?</string>
+    <string name="finQ2">Bueno Aires is the capital of Argentina</string>
+
+    <!-- Question 3 -->
+    <string name="libQuestion3">On which continent is Belize ?</string>
+    <string name="finQ3">Belize is in America</string>
+    <string name="Afr">Africa</string>
+    <string name="Amer">America</string>
+    <string name="Asie">Asia</string>
+    <string name="Eur">Europe</string>
+    <string name="Oce">Oceania</string>
+
+    <!-- Question 4 -->
+    <string name="libQuestion4">Which colors are on the flag of Jamaica ?</string>
+    <string name="finQ4">Answer is : Yellow, Black and Green.</string>
+
+    <!-- Résultats -->
+    <string name="quizzTermine">, you have finished the quizz !</string>
+    <string name="debutScore">Score : </string>
+    <string name="finScore">correct answer(s)</string>
+    <string name="libVoirReponses">See your answers</string>
+</resources>
